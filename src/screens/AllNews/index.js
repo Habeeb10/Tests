@@ -85,7 +85,7 @@ export default function LandingPage() {
 const LoadingView = () => {
   return (
     <View style={styles.loading}>
-      <ActivityIndicator size="large" color="purple" absoluteFill />
+      <ActivityIndicator size="large" color="black" absoluteFill />
     </View>
   );
 };

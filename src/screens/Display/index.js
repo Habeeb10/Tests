@@ -176,7 +176,7 @@ export default function Display({navigation, route}) {
 const LoadingView = () => {
   return (
     <View style={styles.loading}>
-      <ActivityIndicator size="large" color="purple" absoluteFill />
+      <ActivityIndicator size="large" color="black" absoluteFill />
     </View>
   );
 };
