@@ -4,7 +4,7 @@ export default {
   manatee: '#8F92B2',
   snuff: '#E1E2F0',
   whitesmoke: '#ECEEF9',
-  purple: '#6D2077',
+  purple: '#C0A203',
   irishblue: '#00AEC7',
   grey: '#F5F6F7',
   black: '#000000',
