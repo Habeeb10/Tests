@@ -4,7 +4,7 @@ import colors from '../../common/colors';
 
 export const AllNewsStyles = StyleSheet.create({
   button: {
-    width: wp(10),
+    width: wp(100),
     height: hp(35),
     alignSelf: 'center',
   },
